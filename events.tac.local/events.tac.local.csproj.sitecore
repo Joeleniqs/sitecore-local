@@ -2,4 +2,8 @@
   <PropertyGroup>
     <Site Server="joelhondamotorco" UserName="sitecore\admin" IsRemoteSitecore="False" />
   </PropertyGroup>
+  <File Include="Views\TAC\Events\Layouts\Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+  <File Include="/Views/TAC/Events/Layouts/Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{960F36C4-C6CD-4B2C-BA8A-56E9B011DB0F}</Item>
+  </File>
 </Project>
